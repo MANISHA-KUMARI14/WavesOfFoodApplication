@@ -1,1 +1,2 @@
 # WavesOfFoodApplication
+The "Waves Of Food Application" is user friendly mobile platform designed to simplify food ordering and delivery. Build with kotlin, it offers real-time access to menus, personalized recommendations and secure payment options. The application aims to provide a seamless and enjoyable dining experience by allowing users to explore, order and track food from their favourite restaurants effortlessly.
